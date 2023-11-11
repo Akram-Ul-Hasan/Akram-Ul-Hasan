@@ -1,4 +1,3 @@
-![Passionate about Full Stack Web Development & Problem Solving](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/278826985_3135825260036337_8868026726882878502_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nd9KuWDfkW8AX-orSHy&_nc_ht=scontent.fdac151-1.fna&oh=00_AfCywiP-Eb_oTE6OMut0LzCjPF2b6cOYyj3qKGMKyBDrgQ&oe=65549E9A)
 
 ### Hi there 👋, Hi there! I'm Akram
 #### Passionate about Full Stack Web Development & Problem Solving
