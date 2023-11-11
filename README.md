@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there! I'm Akram
+### Hi there! I'm Akram 👋, 
 #### Passionate about Full Stack Web Development & Problem Solving
 I'm a final year student at Chittagong University of Engineering and Technology, deeply passionate about problem-solving and web development. My expertise lies in Python for algorithmic problem-solving on platforms like LeetCode, HackerRank, and Codeforces. Additionally, I've immersed myself in the MERN stack (MongoDB, Express.js, React, Node.js) for web development. Aspiring to become a Software Engineer, I am committed to continuous learning and enjoy turning ideas into reality through code. Explore my repositories to see the intersection of my problem-solving mindset and my love for crafting web experiences.
 
